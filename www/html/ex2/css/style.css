@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 10px;
+}
+
+p {
+  padding: 10px 0;
+}
+
+li {
+  list-style-position: inside;
+  padding: 5px 0;
+}
+
+#links {
+  display: flex;
+}
+
+.link {
+  padding: 10px;
+}
